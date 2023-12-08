@@ -76,7 +76,7 @@ wandb login
 
 
 ##  Acknowledgement
-This repository is based on original [Zero1to3](https://github.com/cvlab-columbia/zero123) and its diffuser implementation [zero123-hf](https://github.com/kxhit/zero123-hf). Thanks for their awesome works.
+This repository is based on original [Zero-1-to-3](https://github.com/cvlab-columbia/zero123) and its diffuser implementation [zero123-hf](https://github.com/kxhit/zero123-hf). Thanks for their awesome works.
 
 
 ##  Citation
@@ -91,7 +91,7 @@ If you find this work repository/work helpful in your research, welcome to cite 
 ```
 
 ##  On Coming
-:white_large_square Releasing the checkpoints
-:white_large_square Novel View Synthesis testing code
-:white_large_square Single Image to 3D testing code
-:white_large_square Scripts of convert diffusers back to zero123 format
+:white_large_square: ` Releasing the checkpoints
+:white_large_square: ` Novel View Synthesis testing code
+:white_large_square: ` Single Image to 3D testing code
+:white_large_square: ` Scripts of convert diffusers back to zero123 format
