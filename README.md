@@ -89,3 +89,9 @@ If you find this work repository/work helpful in your research, welcome to cite 
   year = {2023},
   journal={arXiv preprint arXiv:2312.04424}
 ```
+
+##  On Coming
+:white_large_square Releasing the checkpoints
+:white_large_square Novel View Synthesis testing code
+:white_large_square Single Image to 3D testing code
+:white_large_square Scripts of convert diffusers back to zero123 format
