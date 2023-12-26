@@ -91,7 +91,8 @@ If you find this work repository/work helpful in your research, welcome to cite 
 ```
 
 ##  On Coming
+- [x] Scripts of convert diffusers back to zero123 format  
 ⬜ Releasing the checkpoints  
 ⬜ Novel View Synthesis testing code  
 ⬜ Single Image to 3D testing code  
-⬜ Scripts of convert diffusers back to zero123 format  
+
