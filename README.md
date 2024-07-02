@@ -1,4 +1,4 @@
-# Cascade-Zero123: One Image to Highly Consistent 3D with Self-Prompted Nearby Views
+# Cascade-Zero123: One Image to Highly Consistent 3D with Self-Prompted Nearby Views (ECCV 2024)
 
 ### [Project Page](https://cascadezero123.github.io/) | [Arxiv Paper](https://arxiv.org/abs/2312.04424) | [Video](https://youtu.be/llKNi5YuiV8)
 
@@ -7,6 +7,10 @@ Cascade-Zero123 progressively extracts the 3D information from one single image 
 
 ![block](./imgs/method.png)
 Cascade-Zero123 can be divided into two parts. The left part is Base-0123, which takes a set of R and T values as input to generate corresponding multi-view images. These output images are concatenated with the input condition image and its corresponding camera pose, forming a self-prompted input denoted as a set of c(xc, ∆R, ∆T) for the right part Refiner-0123.
+
+## 🦾 Updates
+- 7/2/2024: Accepted by ECCV 2024.
+- 10/16/2023: The rough code has been released, and there may still be some issues. Please feel free to raise issues.
 
 ## Requirements
 Pytorch 2.0 for faster training and inference.
